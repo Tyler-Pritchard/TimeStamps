@@ -4,6 +4,7 @@
 Install dependencies:
    - pip install Flask
    - pip pip install Flask-Restful
+  
 Run the app:
    - python api.py
 
